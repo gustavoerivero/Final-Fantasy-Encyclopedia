@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/FFEncyclopedia/static/css/main.3bbccb5b.chunk.css",
-    "main.js": "/FFEncyclopedia/static/js/main.1b0fff08.chunk.js",
-    "main.js.map": "/FFEncyclopedia/static/js/main.1b0fff08.chunk.js.map",
-    "runtime-main.js": "/FFEncyclopedia/static/js/runtime-main.c403532d.js",
-    "runtime-main.js.map": "/FFEncyclopedia/static/js/runtime-main.c403532d.js.map",
-    "static/js/2.759cba23.chunk.js": "/FFEncyclopedia/static/js/2.759cba23.chunk.js",
-    "static/js/2.759cba23.chunk.js.map": "/FFEncyclopedia/static/js/2.759cba23.chunk.js.map",
-    "static/js/3.cf2fa660.chunk.js": "/FFEncyclopedia/static/js/3.cf2fa660.chunk.js",
-    "static/js/3.cf2fa660.chunk.js.map": "/FFEncyclopedia/static/js/3.cf2fa660.chunk.js.map",
-    "index.html": "/FFEncyclopedia/index.html",
-    "static/css/main.3bbccb5b.chunk.css.map": "/FFEncyclopedia/static/css/main.3bbccb5b.chunk.css.map",
-    "static/js/2.759cba23.chunk.js.LICENSE.txt": "/FFEncyclopedia/static/js/2.759cba23.chunk.js.LICENSE.txt"
+    "main.css": "/Final-Fantasy-Encyclopedia/static/css/main.3bbccb5b.chunk.css",
+    "main.js": "/Final-Fantasy-Encyclopedia/static/js/main.f5ddd5f3.chunk.js",
+    "main.js.map": "/Final-Fantasy-Encyclopedia/static/js/main.f5ddd5f3.chunk.js.map",
+    "runtime-main.js": "/Final-Fantasy-Encyclopedia/static/js/runtime-main.08d195b1.js",
+    "runtime-main.js.map": "/Final-Fantasy-Encyclopedia/static/js/runtime-main.08d195b1.js.map",
+    "static/js/2.759cba23.chunk.js": "/Final-Fantasy-Encyclopedia/static/js/2.759cba23.chunk.js",
+    "static/js/2.759cba23.chunk.js.map": "/Final-Fantasy-Encyclopedia/static/js/2.759cba23.chunk.js.map",
+    "static/js/3.cf2fa660.chunk.js": "/Final-Fantasy-Encyclopedia/static/js/3.cf2fa660.chunk.js",
+    "static/js/3.cf2fa660.chunk.js.map": "/Final-Fantasy-Encyclopedia/static/js/3.cf2fa660.chunk.js.map",
+    "index.html": "/Final-Fantasy-Encyclopedia/index.html",
+    "static/css/main.3bbccb5b.chunk.css.map": "/Final-Fantasy-Encyclopedia/static/css/main.3bbccb5b.chunk.css.map",
+    "static/js/2.759cba23.chunk.js.LICENSE.txt": "/Final-Fantasy-Encyclopedia/static/js/2.759cba23.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c403532d.js",
+    "static/js/runtime-main.08d195b1.js",
     "static/js/2.759cba23.chunk.js",
     "static/css/main.3bbccb5b.chunk.css",
-    "static/js/main.1b0fff08.chunk.js"
+    "static/js/main.f5ddd5f3.chunk.js"
   ]
 }
