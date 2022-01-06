@@ -54,6 +54,7 @@ export default function Home() {
                 name: element.name,
                 picture: (element.pictures[0] ? element.pictures[0].url : null)
               }
+              console.log(FFObject)
               object.push(FFObject)
             });
             setFFData(object)
@@ -79,7 +80,8 @@ export default function Home() {
                 game: element.game,
                 picture: (element.picture ? element.picture : null)
               }
-              object.push(FFObject)
+              object.push(FFObject)              
+              console.log(FFObject)
             });
             setMonsters(object)
           }
@@ -99,6 +101,7 @@ export default function Home() {
                 picture: (game.picture ? game.picture : null)
               }
               object.push(FFObject)
+              console.log(FFObject)
             });
             setGames(object)
           }
@@ -116,6 +119,7 @@ export default function Home() {
                 picture: (element.pictures[0] ? element.pictures[0].url : null)
               }
               object.push(FFObject)
+              console.log(FFObject)
             });
             setFFData(object)
           }
@@ -132,6 +136,7 @@ export default function Home() {
                 picture: (element.picture ? element.picture : null)
               }
               object.push(FFObject)
+              console.log(FFObject)
             });
             setMonsters(object)
           }
@@ -148,6 +153,7 @@ export default function Home() {
                 picture: (game.picture ? game.picture : null)
               }
               object.push(FFObject)
+              console.log(FFObject)
             });
             setGames(object)
           }
