@@ -1,5 +1,5 @@
 import React from 'react'
-import { BrowserRouter as Router, Route } from 'react-router-dom'
+import { BrowserRouter as Router, Route, Redirect } from 'react-router-dom'
 import Theme from './static/theme/Theme'
 import { CssBaseline, ThemeProvider } from '@material-ui/core'
 import { Provider } from 'react-redux'
@@ -19,9 +19,10 @@ export default function App() {
           <Router>
             <CssBaseline />
             <AppNavigator />
-            <Route exact path='/' component={Home} />
+            <Route exact path='/FFEncyclopedia' component={Home} />
             <Route exact path='/character/:name' component={CharacterDetails} />
             <Route exact path='/favorites' component={Favorites} />
+            <Redirect from='*' to='/FFEncyclopedia' />
             <Footer />
           </Router>
         </ThemeProvider>
