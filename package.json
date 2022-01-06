@@ -1,6 +1,6 @@
 {
   "name": "finalfantasy-project",  
-  "homepage": "https://gustavoerivero.github.io/Final-Fantasy-Encyclopedia/home",
+  "homepage": "https://gustavoerivero.github.io/Final-Fantasy-Encyclopedia",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

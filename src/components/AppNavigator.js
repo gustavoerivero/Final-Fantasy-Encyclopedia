@@ -24,7 +24,7 @@ export default function AppNavigator() {
   return (
     <AppBar position='fixed' className={classes.AppBar}>
       <Toolbar>
-        <Link to='/home' className={classes.Link}>
+        <Link to='/' className={classes.Link}>
           <Typography className={classes.title} variant='h6'>
             Final Fantasy Encyclopedia
           </Typography>

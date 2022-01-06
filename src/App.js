@@ -19,10 +19,10 @@ export default function App() {
           <Router>
             <CssBaseline />
             <AppNavigator />
-            <Route exact path='/home' component={Home} />
+            <Route exact path='/' component={Home} />
             <Route exact path='/character/:name' component={CharacterDetails} />
             <Route exact path='/favorites' component={Favorites} />
-            <Redirect from='*' to='/home' />
+            <Redirect from='*' to='/' />
             <Footer />
           </Router>
         </ThemeProvider>
