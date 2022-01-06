@@ -19,7 +19,7 @@ export default function App() {
           <Router>
             <CssBaseline />
             <AppNavigator />
-            <Route exact path='/Final-Fantasy-Encyclopedia' component={Home} />
+            <Route exact path='/' component={Home} />
             <Route exact path='/character/:name' component={CharacterDetails} />
             <Route exact path='/favorites' component={Favorites} />
             <Footer />
