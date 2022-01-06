@@ -1,5 +1,5 @@
 import React from 'react'
-import { BrowserRouter as Router, Route, Redirect } from 'react-router-dom'
+import { HashRouter as Router, Route, Redirect } from 'react-router-dom'
 import Theme from './static/theme/Theme'
 import { CssBaseline, ThemeProvider } from '@material-ui/core'
 import { Provider } from 'react-redux'
